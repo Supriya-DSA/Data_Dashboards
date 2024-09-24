@@ -27,5 +27,5 @@
      The interactive nature of the dashboard, especially the slicers, allows users to explore sales data effortlessly, making it a powerful tool for decision-making and performance evaluation. I have learned not only the technical aspects of dashboard creation but also the importance of clear and user-friendly data presentation in data-driven decision-making.
 
      This project has deepened my understanding of the power of data visualization and its role in informed decision-making. The ability to turn raw data into actionable insights is a crucial skill that will continue to benefit me throughout my academic and professional journey.
-   !(excel-sales-dashboard/Dashboard1.png)
+   ![Dashboard](Dashboard1.png)
 
