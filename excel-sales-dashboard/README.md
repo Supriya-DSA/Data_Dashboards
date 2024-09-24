@@ -1,4 +1,8 @@
 ### 1. **Excel Dashboard: Sales Dashboard**
+
+   ![Dashboard](Dashboard1.png)
+
+   
    - **AIM:** 
      To make a special dashboard in Excel that helps the sales team see and understand sales in a better way. The dashboard includes a slicer tool, which allows users to filter the sales data based on different categories. This feature makes it easy to see the number of sales in a particular section during a selected year. The main objectives are to:
      - Simplify sales data visualization.
@@ -29,5 +33,5 @@
      This project has deepened my understanding of the power of data visualization and its role in informed decision-making. The ability to turn raw data into actionable insights is a crucial skill that will continue to benefit me throughout my academic and professional journey.
 
      
-   ![Dashboard](Dashboard1.png)
+
 
